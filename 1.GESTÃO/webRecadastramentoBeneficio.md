@@ -18,17 +18,17 @@ sidebar_label: Recadastramento de Benefício
 > + Atendente;
 
 ## Fluxo Básico - Realizar Recadastramento
-![Protótipo 01](/img/prototipos/censo/webRecadastramentoInicial.png) *Protótipo de tela 01 - Página inicial do Módulo Censo na versão web*
+![Protótipo 01](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoInicial.png) *Protótipo de tela 01 - Página inicial do Módulo Censo na versão web*
 
-![Protótipo 02](/img/prototipos/censo/webRecadastramentoBusca.png) *Protótipo de tela 02 - Resultado da busca de Beneficiário na versão web*
+![Protótipo 02](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoBusca.png) *Protótipo de tela 02 - Resultado da busca de Beneficiário na versão web*
 
-![Protótipo 03](/img/prototipos/censo/webRecadastramentoAposentadoria.png) *Protótipo de tela 03 - Formulário de Recadastro de Aposentadoria na versão web*
+![Protótipo 03](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoAposentadoria.png) *Protótipo de tela 03 - Formulário de Recadastro de Aposentadoria na versão web*
 
-![Protótipo 04](/img/prototipos/censo/webRecadastramentoPensaoAposentadoria.png) *Protótipo de tela 04 - Formulário de Recadastro de Pensão e Aposentadoria*
+![Protótipo 04](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoPensaoAposentadoria.png) *Protótipo de tela 04 - Formulário de Recadastro de Pensão e Aposentadoria*
 
-![Protótipo 05](/img/prototipos/censo/webRecadastramentoPensaoAposentadoria2.png) *Protótipo de tela 05 - Formulário preenchido de Recadastro de Pensão e Aposentadoria*
+![Protótipo 05](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoPensaoAposentadoria2.png) *Protótipo de tela 05 - Formulário preenchido de Recadastro de Pensão e Aposentadoria*
 
-![Protótipo 06](/img/prototipos/censo/modeloComprovanteCenso.png) *Modelo de Comprovante de Recadastramento (censo)*
+![Protótipo 06](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/modeloComprovanteCenso.png) *Modelo de Comprovante de Recadastramento (censo)*
 
 > 1. Atendente realiza [**Login**](../../sa/webLogin.md) no sistema;
 > 2. Sistema abre a Página inicial (Recadastramento de Benefícios - Protótipo 01) do Módulo Censo;
@@ -69,7 +69,7 @@ sidebar_label: Recadastramento de Benefício
 > 12. Sistema retorna para o passo 2 deste fluxo;
 
 ## Fluxo Alternativo 1 (FA01) - Consultar Histórico de Recadastramento do Beneficiário
-![Protótipo 07](/img/prototipos/censo/webRecadastramentoHistorico.png) *Protótipo de tela de Histórico de recadastramento do Beneficiário em anos anteriores na versão web*
+![Protótipo 07](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoHistorico.png) *Protótipo de tela de Histórico de recadastramento do Beneficiário em anos anteriores na versão web*
 
 > 1. Atendente insere o CPF do Beneficiário(a) e clica no botão "Buscar";
 > 2. Sistema valida CPF, busca na base de dados e exibe na tela as informações pessoais e benefícios ativos do respectivo Beneficiário(a) (Recadastramento de Benefícios - Protótipo 02):
@@ -108,8 +108,8 @@ sidebar_label: Recadastramento de Benefício
 > 10. Sistema retorna para o passo 2 do Fluxo Básico;
 
 ## Fluxo Alternativo 3 (FA03) - Cadastrar Representante Legal
-![Protótipo 08](/img/prototipos/censo/webRecadastramentoCadRepLegal.png) *Protótipo de tela de formulário de cadastro de Representante Legal na versão web*
-![Protótipo 09](/img/prototipos/censo/webRecadastramentoRepLegal.png) *Protótipo de tela de formulário preenchido de cadastro de Representante Legal na versão web*
+![Protótipo 08](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoCadRepLegal.png) *Protótipo de tela de formulário de cadastro de Representante Legal na versão web*
+![Protótipo 09](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoRepLegal.png) *Protótipo de tela de formulário preenchido de cadastro de Representante Legal na versão web*
 
 > 1. Atendente clica no botão "Cadastrar Representante Legal" no Formulário de Recadastramento de Benefício (passo 6 - Fluxo básico);
 > 2. Sistema abre modal com Formulário de Cadastro de Representante Legal, habilitando para inserção de Informações Pessoais, Endereços, Telefone e Comprovante de representação legal:
