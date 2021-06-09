@@ -17,7 +17,7 @@ sidebar_label: Agendamento de Bloqueios
 > + Administrador de Benefício;
 
 ## Fluxo Básico - Realizar Recadastramento
-![Protótipo 01](/img/prototipos/censo/webAgBloqueios.png) *Página de Agendamento de Bloqueios*
+![Protótipo 01](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRecadastramentoInicial.png) *Página de Agendamento de Bloqueios*
 
 > 1. Administrador de Benefício após realizar [**Login**](../../sa/webLogin.md) no sistema clica no ítem "Agendamento de Bloqueios" no menu lateral;
 > 2. Sistema exibe a tela Agendamento de Bloqueios;
