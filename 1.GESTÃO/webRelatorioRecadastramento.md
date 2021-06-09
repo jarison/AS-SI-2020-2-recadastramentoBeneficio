@@ -17,10 +17,9 @@ sidebar_label: Relatório Gerencial
 > + Administrador de Cadastro;
 
 ## Fluxo Básico - Emitir Relatório Gerencial de Recadastramento
-![Protótipo 01](/img/prototipos/censo/webRelatorioGerencial.png) *Protótipo de tela de Emitir Relatório Gerencial de Recadastramentos na versão web*
-
-![Protótipo 02](/img/prototipos/censo/webRelatorioGerencialFiltro.png) *Protótipo de tela de Emitir Relatório Gerencial de Recadastramento com filtros aplicados na versão web*
-![Protótipo 03](/img/prototipos/censo/webRelatorioGerencialResultado.png)
+![Protótipo 01](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRelatorioGerencial.png) *Protótipo de tela de Emitir Relatório Gerencial de Recadastramentos na versão web*
+![Protótipo 02](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRelatorioGerencialFiltro.png) *Protótipo de tela de Emitir Relatório Gerencial de Recadastramento com filtros aplicados na versão web*
+![Protótipo 03](https://github.com/jarison/AS-SI-2020-2-recadastramentoBeneficio/blob/main/1.GEST%C3%83O/censo/webRelatorioGerencialResultado.png)
 ![Protótipo 04]() *Modelo de Relatório Gerencial de Recadastramento*
 > 1. Administrador de Cadastro clica no botão "Relatório Gerencial de Recadastramento", no Menu Esquerdo da tela;
 > 2. Sistema carrega a tela de Relatório Gerencial de Recadastramento os ítens:
